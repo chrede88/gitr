@@ -8,4 +8,4 @@ Repository for an interactive git talk:zap:
 3) Create a new branch
 4) Make some changes
 5) Open a pull request to the main branch of this repository
-6) New step you idiot
+6) Make another change and push to the same branch (updating PRs)
